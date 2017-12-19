@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Instituto IES Son Ferrer</title>
+<link rel="stylesheet" type="text/css" href="../css/styleIndex.css"
+</head>
+<body>
+
+<h1>Bienvenido a la biblioteca del instituto IES Son Ferrer</h1>
+
+<a href="ListadoLibros.html" target="_blank">
+  <img src="../images/libro.jpg" title="Listado de Libros" alt="Mision-imposible-Peter-Barsocchini" style="width:140px;height:220px;border:0;">
+</a>
+<a href="mailto:nmessinapw@gmail.com">Escribeme un correo</a> 
+
+<a href="FormularioLibro.html" target="_blank">
+  <img src="../images/EscribeLibro.jpeg" alt="Escribe tu propio libro<img src="EscribeLibro.jpeg" alt="" />" style="width:140px;height:220px;border:0;">
+</a>
+</body>
+</html> 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+	<titulo>
+	</titulo>
+	<sinopsis>
+	</sinopsis>
+	<portada>
+	</portada>
+	<fichatecnica>
+			<isbn>
+			</isbn>
+			<titulo>
+			</titulo>
+			<autor>
+			</autor>
+			<numEdicion>
+			</numEdicion>
+			<numPaginas>
+			</numPaginas>
+	</fichatecnica>
+	<reservas>
+		<fecha>
+		</fecha>
+		<usuario>
+		</usuario>
+		<numreservas>
+		</numreservas>
+	</reservas>
+</libro>

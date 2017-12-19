@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<!DOCTYPE html>
+<head>
+   <meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../css/aspecto.css"/>
+<title>Login de usuario</title>
+<meta />
+</head>
+<body  >
+
+<center>
+  <h1>Login de usuario</h1>
+    <p>Formulario</p>
+    
+    <form action="#" method="get">
+     <table>
+           <tbody>
+ 						<tr>
+								<td>Usuario</td> 	<td><input type="text" name= "usuario" id="usuario"/></td>					
+ 						</tr> 
+ 						<tr>
+								<td>Contraseña</td> <td><input type="password" name= "password" id="password"/></td>					
+ 						</tr>           
+					    <tr>
+								<td><input type="button" name= "aceptar" id="aceptar" value="Aceptar"/></td>	
+								<td><input type="button" name= "salir" id="salir" value="Salir"/></td>	
+								<td align="left"><p> <a href="recuperarcontrasenya.html">Recuperar contraseña</a> </p> </td>			
+ 						</tr>                      
+                  
+           
+           </tbody>     
+     
+     </table>
+  </form>
+</center>
+</body>

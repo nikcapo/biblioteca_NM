@@ -1,0 +1,12 @@
+h1 
+{
+color: red;
+}
+
+p{color: red;}
+
+body{align-self: center;
+	background-image: url("../images/background.jpg")
+	
+	}
+

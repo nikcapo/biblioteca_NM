@@ -1,0 +1,81 @@
+ <!DOCTYPE html>
+<html>
+<meta charset="UTF8">
+
+        <head>
+              <title>Instituto IES Son Ferrer</title>
+              <style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+        </head>
+         <body style="background-color:powderblue;">
+<style>
+form{text-align: center;}
+
+
+</style>
+               <h1>Crea tu propio libro!</h1>
+
+<br>
+<br>
+
+
+
+                <table>
+                <table style="width:40%">
+  <tr>
+    <th>Casilla1</th>
+    <th>Introduce el texto</th> 
+    
+  </tr>
+  <tr>
+    <td>ISBN:</td>
+    <td><input type="text" pattern="13-13"></td>
+    
+  </tr>
+  <tr>
+    <td>Titulo:</td>
+    <td><input type="text" pattern="4-26"></td>
+    
+  </tr>
+  <tr>
+    <td>Autor:</td>
+    <td><input type="text" pattern="4-16"></td></td>   
+  </tr>
+  <tr>
+<td>Fecha de edición:</td>  
+<td><input type="text" pattern="4-16"></td>
+  
+  </tr>
+  
+</table>
+
+                
+                 <!-- <tr>
+                     <td>ISBN:<input type="text" pattern="13-13"></td>
+                     <td>Titulo:<input type="text" pattern="4-26"></td>  
+                     <td>Autor:<input type="text" pattern="4-16"></td>
+                     <td>Fecha de edición:<input type="text" pattern="4-16"></td>
+                     <td>Nº de páginas:<input type="text" pattern="4-16"></td>
+                     <td>Nº de edición:<input type="text" pattern="4-16"></td>
+                     <td>Editorial:<input type="text" pattern="4-16"></td>
+                   </tr>
+                      -->
+                </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </body>
+</html> 

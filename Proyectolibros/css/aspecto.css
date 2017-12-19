@@ -1,0 +1,17 @@
+h1 
+{
+color: red;
+}
+
+p{color: red;}
+
+body{align-self: center;
+	background-image: url("../images/background.jpg")
+	
+	}
+
+<div style="float: left; position: relative; left: 50%;">
+    <div style="float: left; position: relative; left: -50%;">
+       my elements here
+    </div>
+</div>

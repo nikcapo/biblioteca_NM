@@ -1,0 +1,13 @@
+h1 
+{
+color: black;
+}
+
+p{color: red;}
+
+body{background-image: url("../images/grass.jpg")}
+<div style="float: left; position: relative; left: 50%;">
+    <div style="float: left; position: relative; left: -50%;">
+       my elements here
+    </div>
+</div>

@@ -1,0 +1,87 @@
+ <!DOCTYPE html>
+<html>
+<meta charset="UTF8">
+
+        <head>
+              <title>Instituto IES Son Ferrer</title>
+              <style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+        </head>
+         <body style="background-color:lightcoral;">
+<style>
+form{text-align: center;}
+
+
+</style>
+               <h1>Listado de libros!</h1>
+
+
+
+               <table>
+                       <tr>
+                           <th>Libro</th> 
+                           <th>Portada</th>
+                           <th>Harry Potter</th> 
+                       </tr>
+                       
+                        <tr>
+                           <td>ISBN:</td>
+                                         <td>
+													               <table>
+												                       <tr>
+												                           <th>Libro</th>
+												                           <th>Harry Potter</th> 
+												    
+												                       </tr>
+												                       
+												                       <tr>
+												                           <td>ISBN:</td>
+												                           <td></td>  
+												                       </tr>
+												                       
+												                        <tr>
+												                            <td>Titulo:</td>
+												                            <td></td>
+												    
+												                        </tr>
+												                       
+												                        <tr>
+												                             <td>Autor:</td>
+												                             <td></td></td>   
+												                        </tr>
+												                        
+												                         <tr>
+												                             <td>Fecha de edición:</td>  
+												                             <td></td>
+												                          </tr>
+																	     </table>
+                           
+                           
+                                               </td>  
+                       </tr>
+                       
+                        <tr>
+                            <td>Titulo:</td>
+                            <td></td>
+    
+                        </tr>
+                       
+                        <tr>
+                             <td>Autor:</td>
+                             <td></td></td>   
+                        </tr>
+                        
+                         <tr>
+                             <td>Fecha de edición:</td>  
+                             <td></td>
+                          </tr>
+					</table>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+	<libro>
+	<titulo>
+	</titulo>
+	<sinopsis>
+	</sinopsis>
+	<isbn>
+	</isbn>
+	<autor>
+	</autor>
+	<numEdicion>
+	</numEdicion>
+	<numPaginas>
+	</numPaginas>
+	<editorial>
+	</editorial>	
+	<portada>
+	</portada>
+	<reservas>
+		<codigo>
+		</codigo>
+		<fecha>
+		</fecha>
+		<usuario>
+				<nikcname>
+				</nikcname>
+				<nombre>
+				</nombre>
+				<apellido1>
+				</apellido1>
+				<apellido2>
+				</apellido2>
+				<fechaNacimiento>
+				</fechaNacimiento>
+		</usuario>
+		<numreservas>
+		</numreservas>
+	</reservas>
+</libro>
+
+</libreria>

@@ -1,0 +1,11 @@
+h1 
+{
+color: red;
+}
+
+.Libro {color: red;}
+
+body{align-self: center;
+	background-image: url("../images/background.jpg")
+	
+	}
